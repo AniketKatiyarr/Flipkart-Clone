@@ -1,0 +1,12 @@
+username = anikety
+password = 12345
+
+
+login of site
+
+"- username = aniket "-
+password "- anik123anik
+
+
+uswername = "manas"  
+password = "poi098poi"
